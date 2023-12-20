@@ -84,7 +84,7 @@
 }
 
 /* Mobile devices */
-@media only screen and (max-width: 400px) {
+@media screen and (max-width: 400px) {
     #wgpt3{
         background: var(--color-bg); 
     }
