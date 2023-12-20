@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-AI-App/static/css/main.f65323eb.css",
+    "main.js": "/React-AI-App/static/js/main.10a3253c.js",
+    "static/media/ai.png": "/React-AI-App/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/React-AI-App/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/React-AI-App/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/React-AI-App/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/React-AI-App/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/React-AI-App/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/React-AI-App/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/React-AI-App/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/React-AI-App/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/React-AI-App/index.html",
+    "main.f65323eb.css.map": "/React-AI-App/static/css/main.f65323eb.css.map",
+    "main.10a3253c.js.map": "/React-AI-App/static/js/main.10a3253c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f65323eb.css",
+    "static/js/main.10a3253c.js"
+  ]
+}
